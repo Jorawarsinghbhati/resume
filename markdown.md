@@ -1,6 +1,10 @@
 # JORAWAR SINGH
 # IMAGE AND CONTACT
--[x] do you want image
+- [ ] Task 1: Write documentation
+- [ ] Task 2: Implement API
+- [x] Task 3: Fix bug in module
+
+-[x] do you wa image
 1. contact-no. :- 9680776189
 2. email:-2023ucp1619@mnit.ac.in
 3. githublink:-[github_joarawar](https://github.com/Jorawarsinghbhati/resume/edit/main/markdown.md)
