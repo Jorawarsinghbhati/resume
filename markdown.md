@@ -1,6 +1,6 @@
 # JORAWAR SINGH
 # IMAGE AND CONTACT
--[] do you want image
+-[*] do you want image
 1. contact-no. :- 9680776189
 2. email:-2023ucp1619@mnit.ac.in
 3. githublink:-[github_joarawar](https://github.com/Jorawarsinghbhati/resume/edit/main/markdown.md)
